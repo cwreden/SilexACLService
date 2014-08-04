@@ -1,4 +1,4 @@
-ACLServiceProvider
-==================
+ACLService
+==========
 
 Silex service provider.
